@@ -1,0 +1,13 @@
+C:\Users\Mateo\Dysk Google\Szkoła\Koszał\Adresy IP\obj\Debug\Adresy IP.csprojAssemblyReference.cache
+C:\Users\Mateo\Dysk Google\Szkoła\Koszał\Adresy IP\bin\Debug\Adresy IP.exe.config
+C:\Users\Mateo\Dysk Google\Szkoła\Koszał\Adresy IP\bin\Debug\Adresy IP.exe
+C:\Users\Mateo\Dysk Google\Szkoła\Koszał\Adresy IP\bin\Debug\Adresy IP.pdb
+C:\Users\Mateo\Dysk Google\Szkoła\Koszał\Adresy IP\obj\Debug\Adresy IP.exe
+C:\Users\Mateo\Dysk Google\Szkoła\Koszał\Adresy IP\obj\Debug\Adresy IP.pdb
+G:\Szkoła\Stare\Koszał\stare\Adresy IP\bin\Debug\Adresy IP.exe.config
+G:\Szkoła\Stare\Koszał\stare\Adresy IP\bin\Debug\Adresy IP.exe
+G:\Szkoła\Stare\Koszał\stare\Adresy IP\bin\Debug\Adresy IP.pdb
+G:\Szkoła\Stare\Koszał\stare\Adresy IP\obj\Debug\Adresy IP.csprojAssemblyReference.cache
+G:\Szkoła\Stare\Koszał\stare\Adresy IP\obj\Debug\Adresy IP.csproj.CoreCompileInputs.cache
+G:\Szkoła\Stare\Koszał\stare\Adresy IP\obj\Debug\Adresy IP.exe
+G:\Szkoła\Stare\Koszał\stare\Adresy IP\obj\Debug\Adresy IP.pdb
